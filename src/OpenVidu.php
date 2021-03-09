@@ -24,7 +24,6 @@ class OpenVidu
     protected const HTTP_USERNAME = "OPENVIDUAPP";
 
     const SESSIONS_URL = "openvidu/api/sessions";
-    const TOKENS_URL = "api/tokens";
     const RECORDINGS_URL = "openvidu/api/recordings";
     const RECORDINGS_START_URL = "openvidu/api/recordings/start";
     const RECORDINGS_STOP_URL = "openvidu/api/recordings/stop";
